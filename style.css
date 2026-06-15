@@ -80,7 +80,7 @@ nav a{
     transition: .3s ease;
 }
 
-.hero{
+.main{
     position:relative;
     height:100vh;
     background-image:url("assets/bk-img.jpg");
@@ -97,20 +97,20 @@ nav a{
     background:rgba(0,0,0,0.35);
 }
 
-.hero-content{
+.main-content{
     position:relative;
     z-index:2;
     text-align:center;
     color:white;
 }
 
-.hero-content h1{
+.main-content h1{
     font-size:70px;
     font-weight:700;
     margin-bottom:25px;
 }
 
-.hero-content p{
+.main-content p{
     font-size:20px;
     margin-bottom:50px;
 }
@@ -172,11 +172,11 @@ nav a{
     transition: .3s ease;
 }
 
-.hero-content{
+.main-content{
     margin-top:120px;
 }
 
-.hero-content h1{
+.main-content h1{
     letter-spacing:-2px;
     line-height:1.1;
 }
